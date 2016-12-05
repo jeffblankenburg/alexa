@@ -1,8 +1,9 @@
 ![](https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png)
 
-# Alexa Developer Resources
+| Important Links | Tutorials | Code Samples | Voice User Interface | Testing | Certification | Analytics |
+|-----------------|-----------|--------------|----------------------|---------|---------------|-----------|
 
-This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.
+<!--This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.-->
 
 ## Important Links You Should Know About
 
