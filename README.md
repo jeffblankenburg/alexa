@@ -10,6 +10,7 @@ This is meant to provide an extensive set of links, code, and resources for both
 * [AWS Developer Console](http://aws.amazon.com) - this is where you create the logic for your skills, as a Lambda function.
 * [Alexa @ GitHub](http://github.com/alexa) - a great pile of sample code and tutorials to help you get a skill up and running.
 * [EchoSim](http://echosim.io) - a virtual Alexa device in your browser.  A great way to test your skills with voice without a device.
+* [Alexa Developer Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) - our blog about news related to Alexa development.
 
 ## Alexa Code Samples
 
@@ -19,6 +20,22 @@ We have created a bunch of sample code for you to easily understand the basics o
 * Managing State
 * Using DynamoDB to Manage Persistence
 * Making an HTTP/HTTPS Request
+* Building a Biography Skill
+
+## Full Sample Skills
+
+In addition to the code samples above, we also have all of the code for several skills completely written.  You can take them, make them your own, and publish your own skill in under an hour!
+
+* [Fact Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-fact) - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
+* Autobiography Skill (node.js) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
+* [How To Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-howto)
+* [Trivia Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-trivia)
+* [Calendar Reader Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-calendar-reader)
+* [Decision Tree Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-decision-tree)
+* [High Low Game Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-highlowgame)
+* [Audio Player Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-audio-player)
+* [RSS Feed Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-feed)
+
 
 ## Voice User Interface (VUI)
 
