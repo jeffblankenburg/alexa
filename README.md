@@ -3,7 +3,11 @@
 | [Begin](https://github.com/jeffblankenburg/alexa) | [Tutorials](https://github.com/jeffblankenburg/alexa/tree/master/tutorials) | [Code Samples](https://github.com/jeffblankenburg/alexa/tree/master/code_samples) | [Voice User Interface](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface) | [Testing](https://github.com/jeffblankenburg/alexa/tree/master/testing) | [Certification](https://github.com/jeffblankenburg/alexa/tree/master/certification) | [Analytics](https://github.com/jeffblankenburg/alexa/tree/master/analytics) |
 |---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
 
-<!--This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.-->
+This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.
+
+#What is an Alexa Skill?
+
+Skills to Alexa are like apps on your phone.  There's a [marketplace](http://amazon.com/skills), you can add them to your account, and they make your great device even better.
 
 ## Important Links You Should Know About
 
