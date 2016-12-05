@@ -19,19 +19,17 @@ Each of these intents must have some code to accomplish that task.  This code is
 
 Below is a sample of an intent schema.  You will see that some of the intents have defined slots, while others have not.  The information you need to execute a specific intent will determine when/if you will need a slot value.
 
-    ```JSON
-    {
-      "intents":  [
+```JSON
+{
+    "intents":  [
         { "intent": "AMAZON.HelpIntent", "slots": [] },
         { "intent": "AMAZON.StopIntent", "slots": [] },
         { "intent": "AMAZON.RepeatIntent", "slots": [] },
         { "intent": "AMAZON.CancelIntent", "slots": [] },
         { "intent": "AMAZON.YesIntent", "slots": [] },
         { "intent": "AMAZON.NoIntent", "slots": [] },
-        { "intent": "searchIntent", "slots": 
-                        [{ "name": "date", "type": "AMAZON.DATE" }] },
-        { "intent": "eventIntent", "slots": 
-                        [{ "name": "number", "type": "AMAZON.NUMBER" }]}
-      ]
-    }
-    ```
+        { "intent": "searchIntent", "slots": [{ "name": "date", "type": "AMAZON.DATE" }] },
+        { "intent": "eventIntent", "slots": [{ "name": "number", "type": "AMAZON.NUMBER" }]}
+    ]
+}
+```
