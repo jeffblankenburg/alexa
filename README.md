@@ -24,7 +24,7 @@ I have created a bunch of sample code for you to easily understand the basics of
 
 This section provides information about creating great voice user interfaces, with a focus on creating meaningful intents, effective sample utterances, and how to use slots in creative and useful ways to interact with your users.
 
-* Intents
+* [Intents](https://github.com/jeffblankenburg/alexa/tree/master/intents)
 * Utterances
 * Slots
 
