@@ -28,8 +28,10 @@ Below is a sample of an intent schema.  You will see that some of the intents ha
         { "intent": "AMAZON.CancelIntent", "slots": [] },
         { "intent": "AMAZON.YesIntent", "slots": [] },
         { "intent": "AMAZON.NoIntent", "slots": [] },
-        { "intent": "searchIntent", "slots": [{ "name": "date", "type": "AMAZON.DATE" }] },
-        { "intent": "eventIntent", "slots": [{ "name": "number", "type": "AMAZON.NUMBER" }]}
+        { "intent": "searchIntent", "slots": 
+                        [{ "name": "date", "type": "AMAZON.DATE" }] },
+        { "intent": "eventIntent", "slots": 
+                        [{ "name": "number", "type": "AMAZON.NUMBER" }]}
       ]
     }
     ```
