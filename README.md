@@ -13,6 +13,8 @@ Skills to Alexa are like apps on your phone.  There's a [marketplace](http://ama
 
 Skills are made up of two parts, just like most software you use today.  There's the server-side logic: the code that makes your skill take action, and there's the user interface, which is made entirely of your user's voice commands.  These two pieces together comprise a skill for Alexa.  To get started building your first skill, we recommend trying our [Fact Skill Tutorial](https://github.com/alexa/skill-sample-nodejs-fact).  It will walk you through each step of the process, explaining each of the important pieces of skill construction along the way.
 
+Once you've published your first skill, we highly recommend checking out the sections highlighted at the top of this page.  There's much more to learn about [Voice User Interfaces](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface), [testing your skills](https://github.com/jeffblankenburg/alexa/tree/master/testing), [certification](https://github.com/jeffblankenburg/alexa/tree/master/certification), and even [measuring how and when your skill is getting used](https://github.com/jeffblankenburg/alexa/tree/master/analytics)!
+
 ## Important Links You Should Know About
 
 * [Alexa Developer Portal](http://developer.amazon.com) - this is where you create the user interfaces for your skills.
