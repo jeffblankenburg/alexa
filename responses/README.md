@@ -9,16 +9,15 @@ This is where we discuss how to respond to a user.
 ## Cards
 
 This will import the alexa sdk and set up an alexa object for us to work with. Next, we need to handle when the intents for our skill. Thankfully, the alexa-sdk makes it simple to have a function fire on every Intent we would like. For example, to create a handler for a ‘HelloWorldIntent’ we simply add the following:
-
-var handlers = {
-
-    'HelloWorldIntent': function () {
-
+```JSON
+var handlers = 
+{
+    'HelloWorldIntent': function ()
+    {
         this.emit(':tell', 'Hello World!');
-
-                  }
-
+    }
 };
+```
 
 Notice the new syntax above for “:tell”? The alexa-sdk follows a tell/ask response methodology for generating your outputSpeech response objects. If we wanted to ask the user for information we would replace the above with:
 
