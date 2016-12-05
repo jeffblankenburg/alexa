@@ -7,6 +7,7 @@ This is meant to provide an extensive set of links, code, and resources for Alex
 * [Alexa Developer Portal](http://developer.amazon.com) - this is where you create your skills.
 * [AWS Developer Console](http://aws.amazon.com) - this is where you create the logic for your skills, as a Lambda function.
 * [Alexa @ GitHub](http://github.com/alexa) - a great pile of sample code and tutorials to help you get a skill up and running.
+* [EchoSim](http://echosim.io) - a virtual Alexa device in your browser.  A great way to test your skills with voice without a device.
 
 ## Alexa Sample Code
 
