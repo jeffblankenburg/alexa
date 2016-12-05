@@ -16,7 +16,7 @@ We have all of the code for several skills completely written for you.  You can 
 | [High-Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) | node.js ||
 | [Audio Player](https://github.com/alexa/skill-sample-nodejs-audio-player) | node.js ||
 | [Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) | node.js ||
-ß
+
 <!-- * [Fact Skill (node.js)] - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
 * [Autobiography Skill (node.js)](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
 * [How To Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-howto)
