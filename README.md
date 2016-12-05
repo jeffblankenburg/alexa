@@ -10,7 +10,7 @@ This is meant to provide an extensive set of links, code, and resources for both
 * [AWS Developer Console](http://aws.amazon.com) - this is where you create the logic for your skills, as a Lambda function.
 * [Alexa @ GitHub](http://github.com/alexa) - a great pile of sample code and tutorials to help you get a skill up and running.
 * [EchoSim](http://echosim.io) - a virtual Alexa device in your browser.  A great way to test your skills with voice without a device.
-* [Alexa Developer Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) - our blog about news related to Alexa development.
+* [Alexa Developer Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) - our blog for news related to Alexa development.
 
 ## Alexa Code Samples
 
@@ -28,15 +28,15 @@ In addition to the code samples above, we also have all of the code for several 
 
 | Title               | Language | Description |
 |---------------------|----------|-------------|
-| [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact)| node.js | This is our "Hello World" example.  If you haven't written a skill before, this is where you should start. |
-| [Autobiography Skill](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) | node.js | A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume. |
+| [Fact ](https://github.com/alexa/skill-sample-nodejs-fact)| node.js | This is our "Hello World" example.  If you haven't written a skill before, this is where you should start. |
+| [Autobiography](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) | node.js | A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume. |
 | [How To](https://github.com/alexa/skill-sample-nodejs-howto) | node.js ||
-| [Trivia Skill](https://github.com/alexa/skill-sample-nodejs-trivia) | node.js ||
-| [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) | node.js ||
+| [Trivia Game](https://github.com/alexa/skill-sample-nodejs-trivia) | node.js ||
+| [Calendar](https://github.com/alexa/skill-sample-nodejs-calendar-reader) | node.js ||
 | [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) | node.js ||
-| [High Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) | node.js ||
+| [High-Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) | node.js ||
 | [Audio Player](https://github.com/alexa/skill-sample-nodejs-audio-player) | node.js ||
-| [RSS Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) | node.js ||
+| [Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) | node.js ||
 
 <!-- * [Fact Skill (node.js)] - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
 * [Autobiography Skill (node.js)](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
