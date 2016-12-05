@@ -13,9 +13,9 @@ This will import the alexa sdk and set up an alexa object for us to work with. N
 ```JSON
 var handlers = 
 {
-    'HelloWorldIntent'\: function ()
+    'HelloWorldIntent'&#58; function ()
     {
-        this.emit('\:tell', 'Hello World!');
+        this.emit('&#58;tell', 'Hello World!');
     }
 };
 ```
