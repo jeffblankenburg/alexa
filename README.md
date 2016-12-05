@@ -28,17 +28,17 @@ In addition to the code samples above, we also have all of the code for several 
 
 | Title               | Language | Description |
 |---------------------|----------|-------------|
-| Fact Skill          | node.js  ||
-| Autobiography Skill | node.js  ||
-| How To              | node.js  ||
-| Trivia Skill        | node.js  ||
-| Calendar Reader     | node.js  ||
-| Decision Tree       | node.js  ||
-| High Low Game       | node.js  ||
-| Audio Player        | node.js  ||
-| RSS Feed Reader     | node.js  ||
+| [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact)| node.js | This is our "Hello World" example.  If you haven't written a skill before, this is where you should start. |
+| [Autobiography Skill](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) | node.js | A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume. |
+| [How To](https://github.com/alexa/skill-sample-nodejs-howto) | node.js ||
+| [Trivia Skill](https://github.com/alexa/skill-sample-nodejs-trivia) | node.js ||
+| [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) | node.js ||
+| [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) | node.js ||
+| [High Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) | node.js ||
+| [Audio Player](https://github.com/alexa/skill-sample-nodejs-audio-player) | node.js ||
+| [RSS Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) | node.js ||
 
-* [Fact Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-fact) - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
+<!-- * [Fact Skill (node.js)] - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
 * [Autobiography Skill (node.js)](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
 * [How To Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-howto)
 * [Trivia Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-trivia)
@@ -46,7 +46,7 @@ In addition to the code samples above, we also have all of the code for several 
 * [Decision Tree Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-decision-tree)
 * [High Low Game Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-highlowgame)
 * [Audio Player Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-audio-player)
-* [RSS Feed Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-feed)
+* [RSS Feed Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-feed) -->
 
 
 ## Voice User Interface (VUI)
