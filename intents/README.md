@@ -19,7 +19,7 @@ Each of these intents must have some code to accomplish that task.  This code is
 
 Below is a sample of an intent schema.  You will see that some of the intents have defined slots, while others have not.  The information you need to execute a specific intent will determine when/if you will need a slot value.
 
-```JSON
+```JS
 {
     "intents":  [
         { "intent": "AMAZON.HelpIntent", "slots": [] },
