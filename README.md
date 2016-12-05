@@ -1,8 +1,8 @@
 ![](https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png)
-|
+
 | [Begin](https://github.com/jeffblankenburg/alexa) | [Tutorials](https://github.com/jeffblankenburg/alexa/tree/master/tutorials) | [Code Samples](https://github.com/jeffblankenburg/alexa/tree/master/code_samples) | [Voice User Interface](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface) | [Testing](https://github.com/jeffblankenburg/alexa/tree/master/testing) | [Certification](https://github.com/jeffblankenburg/alexa/tree/master/certification) | [Analytics](https://github.com/jeffblankenburg/alexa/tree/master/analytics) |
-|---------|-------------|----------------|------------------------|-----------|-----------------|-------------||
-|---|
+|---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
+
 
 This GitHub repository is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.
 
