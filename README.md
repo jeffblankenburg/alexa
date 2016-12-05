@@ -1,3 +1,5 @@
+![alt text](https://github.com/jeffblankenburg/alexa/images/alexalogo.png "Amazon Alexa")
+
 # Alexa Developer Resources
 
 This is meant to provide an extensive set of links, code, and resources for Alexa developers, both new and experienced.
