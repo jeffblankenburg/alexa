@@ -6,3 +6,5 @@ This is where we discuss how to respond to a user.
 
 ## Randomization
 
+## Cards
+
