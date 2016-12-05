@@ -41,3 +41,4 @@ There is a large list of intents that Amazon has created for you.  You can see s
 | Intent              | Common User Utterances              | Purpose                                                                                       |
 |---------------------|-------------------------------------|-----------------------------------------------------------------------------------------------|
 | AMAZON.CancelIntent | "cancel," "never mind," "forget it" | Let the user cancel a transaction or task (but remain in the skill), or let the user completely exit the skill |
+
