@@ -11,7 +11,7 @@ This is meant to provide an extensive set of links, code, and resources for both
 * [Alexa @ GitHub](http://github.com/alexa) - a great pile of sample code and tutorials to help you get a skill up and running.
 * [EchoSim](http://echosim.io) - a virtual Alexa device in your browser.  A great way to test your skills with voice without a device.
 
-## Alexa Sample Code
+## Alexa Code Samples
 
 I have created a bunch of sample code for you to easily understand the basics of an Alexa skill.  These are all part of this repository, so cloning/downloading this will get you a local copy of everything.
 
