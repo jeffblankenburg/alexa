@@ -1,4 +1,4 @@
-![alt text](https://github.com/jeffblankenburg/alexa/images/alexalogo.png "Amazon Alexa")
+![](https://github.com/jeffblankenburg/alexa/images/alexalogo.png)
 
 # Alexa Developer Resources
 
