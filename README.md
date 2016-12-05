@@ -1,4 +1,4 @@
-![](https://github.com/jeffblankenburg/alexa/images/alexalogo.png)
+![](https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png)
 
 # Alexa Developer Resources
 
