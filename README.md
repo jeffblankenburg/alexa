@@ -8,13 +8,22 @@ This is meant to provide an extensive set of links, code, and resources for Alex
 * [AWS Developer Console](http://aws.amazon.com) - this is where you create the logic for your skills, as a Lambda function.
 * [Alexa @ GitHub](http://github.com/alexa) - a great pile of sample code and tutorials to help you get a skill up and running.
 
-### Prerequisites
+## Alexa Sample Code
 
-What things you need to install the software and how to install them
+I have created a bunch of sample code for you to easily understand the basics of an Alexa skill.  These are all part of this repository, so cloning/downloading will get you a local copy of everything.
 
-```
-Give examples
-```
+* Managing State
+* Creating Cards
+* Using DynamoDB to Manage Persistence
+* Making an HTTP/HTTPS Request
+
+## Voice User Interface (VUI)
+
+This section provides information about creating great voice user interfaces, with a focus on creating meaningful intents, effective sample utterances, and how to use slots in creative and useful ways to interact with your users.
+
+* Intents
+* Utterances
+* Slots
 
 ### Installing
 
