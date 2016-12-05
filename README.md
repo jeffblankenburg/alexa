@@ -2,7 +2,7 @@
 
 # Alexa Developer Resources
 
-This is meant to provide an extensive set of links, code, and resources for Alexa developers, both new and experienced.
+This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.
 
 ## Important Links You Should Know About
 
