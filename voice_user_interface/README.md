@@ -1,1 +1,10 @@
-# Voice User Interface
+| [Begin](https://github.com/jeffblankenburg/alexa) | [Tutorials](https://github.com/jeffblankenburg/alexa/tutorials) | [Code Samples](https://github.com/jeffblankenburg/alexa/code_samples) | [Voice User Interface](https://github.com/jeffblankenburg/alexa/voice_user_interface) | [Testing](https://github.com/jeffblankenburg/alexa/testing) | [Certification](https://github.com/jeffblankenburg/alexa/certification) | [Analytics](https://github.com/jeffblankenburg/alexa/analytics) |
+|---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
+
+# Voice User Interface (VUI)
+
+This section provides information about creating great voice user interfaces, with a focus on creating meaningful intents, effective sample utterances, and how to use slots in creative and useful ways to interact with your users.
+
+* [Intents](https://github.com/jeffblankenburg/alexa/tree/master/intents)
+* Utterances
+* Slots
