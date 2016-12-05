@@ -38,8 +38,6 @@ Below is a sample of an intent schema.  You will see that some of the intents ha
 
 There is a large list of intents that Amazon has created for you.  You can see several of them in the code sample above.  When you use one of the built-in intents, you still have to write handler functions to be used when the user indicates that they want to use one of these intents, or they won't work.  I recommend making sure that you include all of the relevant intents in every skill, as your users will be trained to expect them.
 
-| Intent              | Common User Utterances | Purpose                                                                                       |
-|---------------------|------------------------|-----------------------------------------------------------------------------------------------|
-| AMAZON.CancelIntent | * cancel               | Either of the following:                                                                      |
-|                     | * never mind           | * Let the user cancel a transaction or task (but remain in the skill)                         |
-|                     | * forget it            | * Let the user completely exit the skill                                                      |
+| Intent              | Common User Utterances            | Purpose                                                                                       |
+|---------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
+| AMAZON.CancelIntent | * cancel * never mind * forget it | Either of the following: * Let the user cancel a transaction or task (but remain in the skill) * Let the user completely exit the skill |
