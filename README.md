@@ -24,15 +24,6 @@ Once you've published your first skill, we highly recommend checking out the sec
 * [EchoSim](http://echosim.io) - a virtual Alexa device in your browser.  A great way to test your skills with voice without a device.
 * [Alexa Developer Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) - our blog for news related to Alexa development.
 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * **Jeff Blankenburg** - *Initial work* - [Jeff Blankenburg](https://github.com/jeffblankenburg)
