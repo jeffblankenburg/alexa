@@ -15,8 +15,8 @@ This is meant to provide an extensive set of links, code, and resources for Alex
 
 I have created a bunch of sample code for you to easily understand the basics of an Alexa skill.  These are all part of this repository, so cloning/downloading this will get you a local copy of everything.
 
+* [Responding To A User With Speech & Cards](https://github.com/jeffblankenburg/alexa/blob/master/responses/README.md)
 * Managing State
-* Creating Cards
 * Using DynamoDB to Manage Persistence
 * Making an HTTP/HTTPS Request
 
