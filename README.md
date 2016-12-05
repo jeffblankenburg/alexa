@@ -27,7 +27,7 @@ We have created a bunch of sample code for you to easily understand the basics o
 In addition to the code samples above, we also have all of the code for several skills completely written.  You can take them, make them your own, and publish your own skill in under an hour!
 
 * [Fact Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-fact) - This is our "Hello World" example.  If you haven't written a skill before, this is where you should start.
-* Autobiography Skill (node.js) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
+* [Autobiography Skill (node.js)](https://github.com/jeffblankenburg/alexa/tree/master/samples/biography) - A skill to create an autobiography about yourself.  Users can ask for facts about you, your background, and your resume.
 * [How To Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-howto)
 * [Trivia Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-trivia)
 * [Calendar Reader Skill (node.js)](https://github.com/alexa/skill-sample-nodejs-calendar-reader)
