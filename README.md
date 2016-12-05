@@ -10,7 +10,7 @@ This is meant to provide an extensive set of links, code, and resources for Alex
 
 ## Alexa Sample Code
 
-I have created a bunch of sample code for you to easily understand the basics of an Alexa skill.  These are all part of this repository, so cloning/downloading will get you a local copy of everything.
+I have created a bunch of sample code for you to easily understand the basics of an Alexa skill.  These are all part of this repository, so cloning/downloading this will get you a local copy of everything.
 
 * Managing State
 * Creating Cards
@@ -25,53 +25,27 @@ This section provides information about creating great voice user interfaces, wi
 * Utterances
 * Slots
 
-### Installing
+## Testing Your Skill
 
-A step by step series of examples that tell you have to get a development env running
+How to use the testing tools that are provided, and other effective testing strategies for your Alexa skills.
 
-Say what the step will be
+## Submission and Certification
 
-```
-Give the example
-```
+How to avoid the common certification mistakes, and resources to make your skill resonate with users.
 
-And repeat
+* Testing with the Service Simulator
+* Testing your Lambda skill
+* Combining the two
+* Using Echosim.io
+* Using a device
+* Promoting your skill using http://amazon.com/skills
 
-```
-until finished
-```
 
-End with an example of getting some data out of the system or using it for a little demo
+## Measuring Your Skill Usage
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* Storing data in DynamoDB
+* View the provided metrics
+* Using an external tool like Opearlo.
 
 ## Contributing
 
@@ -83,16 +57,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jeff Blankenburg** - *Initial work* - [Jeff Blankenburg](https://github.com/jeffblankenburg)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/jeffblankenburg/alexa/contributors) who participated in this project.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
