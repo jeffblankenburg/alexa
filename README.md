@@ -1,7 +1,7 @@
 ![](https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png)
 
-| Important Links | Tutorials | Code Samples | Voice User Interface | Testing | Certification | Analytics |
-|-----------------|-----------|--------------|----------------------|---------|---------------|-----------|
+| Links | Tutorials | Code Samples | Voice User Interface | Testing | Certification | Analytics |
+|-------|-----------|--------------|----------------------|---------|---------------|-----------|
 
 <!--This is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.-->
 
