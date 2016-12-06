@@ -8,6 +8,9 @@ This is where we discuss how to respond to a user.
 
 ## Cards
 
+https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/providing-home-cards-for-the-amazon-alexa-app
+
+
 This will import the alexa sdk and set up an alexa object for us to work with. Next, we need to handle when the intents for our skill. Thankfully, the alexa-sdk makes it simple to have a function fire on every Intent we would like. For example, to create a handler for a ‘HelloWorldIntent’ we simply add the following:
 
 ```JS
