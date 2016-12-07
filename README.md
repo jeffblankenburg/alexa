@@ -22,7 +22,7 @@ There are plenty of places to connect with the Alexa team to get your questions 
 * [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
 * [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features missing from Alexa, or any of the supporting technology, this is the place to ask for it.  Vote up the features you need, and see what others are asking for.
 * [Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
-* [Alexa Evangelists]() - several people on our team are dedicated to helping to grow and educate software developers about Alexa development.
+* [Alexa Evangelists](https://github.com/jeffblankenburg/alexa/tree/master/evangelists) - several people on our team are dedicated to helping to grow and educate software developers about Alexa development.
 
 
 Once you've published your first skill, we highly recommend checking out the sections highlighted at the top of this page.  There's much more to learn about [Voice User Interfaces](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface), [testing your skills](https://github.com/jeffblankenburg/alexa/tree/master/testing), [certification](https://github.com/jeffblankenburg/alexa/tree/master/certification), and even [measuring how and when your skill is getting used](https://github.com/jeffblankenburg/alexa/tree/master/analytics)!
