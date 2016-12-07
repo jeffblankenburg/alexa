@@ -14,6 +14,17 @@ Skills to Alexa are like apps on your phone.  There's a [marketplace](http://ama
 
 Skills are made up of two parts, just like most software you use today.  There's the server-side logic: the code that makes your skill take action, and there's the user interface, which is made entirely of your user's voice commands.  These two pieces together comprise a skill for Alexa.  To get started building your first skill, we recommend trying our [Fact Skill Tutorial](https://github.com/alexa/skill-sample-nodejs-fact).  It will walk you through each step of the process, explaining each of the important pieces of skill construction along the way.
 
+#Where can I ask questions?
+
+There are plenty of places to connect with the Alexa team to get your questions answered.  Here's a few places you can start:
+
+* [Office Hours](https://attendee.gotowebinar.com/rt/8389200425172113931) - Our team runs office hours weekly, where you can come learn more about Alexa development, as well as ask specific questions to our moderators.
+* [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
+* [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features missing from Alexa, or any of the supporting technology, this is the place to ask for it.  Vote up the features you need, and see what others are asking for.
+* [Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
+* [Alexa Evangelists]() - several people on our team are dedicated to helping to grow and educate software developers about Alexa development.
+
+
 Once you've published your first skill, we highly recommend checking out the sections highlighted at the top of this page.  There's much more to learn about [Voice User Interfaces](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface), [testing your skills](https://github.com/jeffblankenburg/alexa/tree/master/testing), [certification](https://github.com/jeffblankenburg/alexa/tree/master/certification), and even [measuring how and when your skill is getting used](https://github.com/jeffblankenburg/alexa/tree/master/analytics)!
 
 ## Important Links You Should Know About
