@@ -1,6 +1,6 @@
 #Jeff Blankenburg
 
-<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/images/alexalogo.png" height="100">
+<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/alexa_evangelists/images/jeffblankenburg.jpg" height="200">
 
 Blog: [http://blankenblog.com](http://blankenblog.com)
 
