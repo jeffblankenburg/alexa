@@ -11,8 +11,8 @@ There are a few things you need to do before you get started:
 * Set up an account for [Amazon Web Services](http://aws.amazon.com).
 * [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
 * Build one of the sample skills.
-    * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is the simplest of examples, but a great one to start with.  Add some new facts to the sample, and you're done!
-    * [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify to let you know about events on that calendar.
+    * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is a simple example, but a great one to start with.  Add some facts to the sample, and you're done!
+    * [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify.
     * [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - Populate this sample with information about your favorite city so that others can learn about it!
     * [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
 
