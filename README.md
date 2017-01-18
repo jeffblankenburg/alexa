@@ -7,8 +7,8 @@ This is a place for me to keep all of the resources I find important to Alexa de
 #Getting Started With Alexa Skills
 There are a few things you need to do before you get started:
 
-* Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
-* Set up an account for [Amazon Web Services](http://aws.amazon.com).
+* [Set up an account on the Amazon Developer Portal](http://developer.amazon.com).
+* [Set up an account for Amazon Web Services](http://aws.amazon.com).
 * [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
 * Build one of the sample skills.
     * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is a simple example, but a great one to start with.  Add facts to the sample, and you're done!
@@ -17,7 +17,7 @@ There are a few things you need to do before you get started:
     * [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
 
 #Other Stuff To Check Out Here
-*  Code Snippets
+*  [Code Snippets](https://github.com/jeffblankenburg/alexa/tree/master/start_here/code_snippets)
 *  Building Voice User Interfaces
 *  Testing Your Alexa Skills
 *  Getting Your Skill Through certification
