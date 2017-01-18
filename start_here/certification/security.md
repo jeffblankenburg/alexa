@@ -32,44 +32,38 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
       * The page must display your skill’s icon or logo on the left and the Amazon logo on the right.
       * You must clearly state the customer information your skill is collecting and using. This can be directly on the login page or in your privacy policy.
 
-4. ###Skills that Allow Unlocking or Disarming
-   If your skill lets the user unlock or disarm a device, you must require the user to speak a PIN of at least four digits before executing the unlock / disarm action. Customers cannot opt out of the PIN requirements, although you can provide reduced functionality for customers who don’t want to enable a PIN. The PIN is recommended, but not required for locking or arming a device.
+4.  ###Skills that Allow Unlocking or Disarming
+    If your skill lets the user unlock or disarm a device, you must require the user to speak a PIN of at least four digits before executing the unlock / disarm action. Customers cannot opt out of the PIN requirements, although you can provide reduced functionality for customers who don’t want to enable a PIN. The PIN is recommended, but not required for locking or arming a device.
 
-   ---
-   ####Test
-   * Enable the skill and complete the account linking process. Ensure that the account linking flow includes setting a PIN to access unlock functionality and the PIN meets the security requirements.
-   ---
+    ---
+    ####Test
+    Enable the skill and complete the account linking process. Ensure that the account linking flow includes setting a PIN to access unlock functionality and the PIN meets the security requirements.
 
-   ---
-   ####Expected Results
-   * The skill requires the user to set a PIN as part of the account linking process.
-   * The PIN must be at least four digits long.
-   * The flow reminds the user to reset the PIN every 60 days.
+    ####Expected Results
+    * The skill requires the user to set a PIN as part of the account linking process.
+    * The PIN must be at least four digits long.
+    * The flow reminds the user to reset the PIN every 60 days.
    
+    ---
+    ####Test
+    If the skill offers reduced functionality when no PIN is set, disable the skill or log in to the Alexa app as an Alexa user who has not yet enabled the skill. Enable the skill, but do not set the PIN when prompted. Attempt to invoke the intents that let the user unlock or disarm a device.
+    ####Expected Results
+    * The requests to unlock or disarm are not executed. The user is instructed to set a PIN to use these features.
+    * Features other than unlock/disarm do work normally without the PIN.
 
-   ---
-   ####Test
-   ---
-   If the skill offers reduced functionality when no PIN is set, disable the skill or log in to the Alexa app as an Alexa user who has not yet enabled the skill. Enable the skill, but do not set the PIN when prompted. Attempt to invoke the intents that let the user unlock or disarm a device.
-   ####Expected Results
-   ---
-   * The requests to unlock or disarm are not executed. The user is instructed to set a PIN to use these features.
-   * Features other than unlock/disarm do work normally without the PIN.
+    ---
+    ####Test
+    Invoke each intent that lets a user unlock or disarm a device.
+    ####Expected Results
+    Each request to unlock or disarm a device asks the user to speak the PIN.
 
-   ####Test
-   ---
-   Invoke each intent that lets a user unlock or disarm a device.
-   ####Expected Results
-   ---
-   Each request to unlock or disarm a device asks the user to speak the PIN.
-
-   ####Test
-   ---
-   Invoke each intent that lets a user unlock or disarm a device. When prompted for the PIN, speak an incorrect PIN. Provide an incorrect PIN at least three times.
-   ####Expected Results
-   ---
-   * The skill rejects the incorrect PIN and does not complete the unlock or disarm request.
-   * After three consecutive incorrect PIN attempts, the skill instructs you to reset your PIN. Attempting a fourth request with the original, correct PIN now fails.
+    ---
+    ####Test
+    Invoke each intent that lets a user unlock or disarm a device. When prompted for the PIN, speak an incorrect PIN. Provide an incorrect PIN at least three times.
+    ####Expected Results
+    * The skill rejects the incorrect PIN and does not complete the unlock or disarm request.
+    * After three consecutive incorrect PIN attempts, the skill instructs you to reset your PIN. Attempting a fourth request with the original, correct PIN now fails.
+    ---
 
 5. ###Skills for Booking Reservations
    If your skill lets users book reservations, the skill must:
@@ -78,38 +72,34 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
    * Require the user to confirm the booking before it is completed. This can be using a phrase such as “Yes,” “OK,” or other similar responses.
    * Provide a confirmation that the skill completed the booking via voice, skill card, and email.
 
-   ####Test
    ---
+   ####Test
    Review the description for the skill.
    ####Expected Results
-   ---
    The skill’s description mentions the ability to book reservations or services.
 
-   ####Test
    ---
+   ####Test
    Verify that your skill follows all the instructions defined in [Linking an Alexa User with a User in Your System](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system).
    ####Expected Results
-   ---
    The skill is set up to use account linking, and passes the tests described in section 3 above: Skills with Account Linking.
 
-   ####Test
    ---
+   ####Test
    Start an interaction with the skill and attempt to create a reservation.
    ####Expected Results
-   ---
    * The skill asks you for confirmation before completing the booking.
    * Stating a phrase like “Yes,” “OK,” or “sure” confirms the booking.
 
-   ####Test
    ---
+   ####Test
    Start an interaction with the skill and attempt to create a reservation. When prompted to confirm, use one of the acceptance phrases such as “Yes.”
    ####Expected Results
-   ---
    * The skill completes the booking
    * You receive confirmation via voice
    * A card is sent to the Alexa app confirming the booking.
    * You receive an email confirming the booking.
-
+   ---
 
 
 
