@@ -1,4 +1,4 @@
-<img src="https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png" height="100">
+<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/images/alexalogo.png" height="100">
 
 | [Getting Started](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide) | [Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/alexa-skills-developer-training) | [Lambda Functions](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function) | [Voice Design](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-best-practices) | [Testing](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/testing-an-alexa-skill) | [Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) | [Forums](https://forums.developer.amazon.com/spaces/23/Alexa+Skills+Kit.html) |
 |---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
