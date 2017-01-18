@@ -98,7 +98,6 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
    * You receive confirmation via voice
    * A card is sent to the Alexa app confirming the booking.
    * You receive an email confirming the booking.
-   ---
 
 
 
