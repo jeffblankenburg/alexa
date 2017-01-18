@@ -64,7 +64,6 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
     * The skill rejects the incorrect PIN and does not complete the unlock or disarm request.
     * After three consecutive incorrect PIN attempts, the skill instructs you to reset your PIN. Attempting a fourth request with the original, correct PIN now fails.
     
-
 5. ###Skills for Booking Reservations
    If your skill lets users book reservations, the skill must:
    * Note this feature in the description.
