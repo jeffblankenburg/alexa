@@ -35,8 +35,10 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
 4. ###Skills that Allow Unlocking or Disarming
    If your skill lets the user unlock or disarm a device, you must require the user to speak a PIN of at least four digits before executing the unlock / disarm action. Customers cannot opt out of the PIN requirements, although you can provide reduced functionality for customers who don’t want to enable a PIN. The PIN is recommended, but not required for locking or arming a device.
 
+   ---
    ####Test
    Enable the skill and complete the account linking process. Ensure that the account linking flow includes setting a PIN to access unlock functionality and the PIN meets the security requirements.
+   ---
    ####Expected Results
    * The skill requires the user to set a PIN as part of the account linking process.
    * The PIN must be at least four digits long.
