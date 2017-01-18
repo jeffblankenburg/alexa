@@ -7,28 +7,28 @@ This is a place for me to keep all of the resources I find important to Alexa de
 #Getting Started With Alexa Skills
 There are a few things you need to do before you get started:
 
-1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
-2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
-3.  [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
-4.  Build one of the sample skills.
-    1. [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is the simplest of examples, but a great one to start with.  Add some new facts to the sample, and you're done!
-    2. [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify to let you know about events on that calendar.
-    3. [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - Populate this sample with information about your favorite city so that others can learn about it!
-    4. [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
+* Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
+* Set up an account for [Amazon Web Services](http://aws.amazon.com).
+* [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
+* Build one of the sample skills.
+    * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is the simplest of examples, but a great one to start with.  Add some new facts to the sample, and you're done!
+    * [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify to let you know about events on that calendar.
+    * [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - Populate this sample with information about your favorite city so that others can learn about it!
+    * [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
 
 #Other Stuff To Check Out Here
-1.  Code Snippets
-2.  Building Voice User Interfaces
-3.  Testing Your Alexa Skills
-4.  Getting Your Skill Through certification
-5.  Measuring Your Skills With Analytics
-6.  Alexa Evangelists
+*  Code Snippets
+*  Building Voice User Interfaces
+*  Testing Your Alexa Skills
+*  Getting Your Skill Through certification
+*  Measuring Your Skills With Analytics
+*  Alexa Evangelists
 
 #Other Stuff For Alexa
-1.  [Alexa on Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
-2.  [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
-3.  [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features you want to see available for building Alexa skills, this is the place to mention and vote on them.
-4.  [Alexa Office Hours](https://attendee.gotowebinar.com/rt/8389200425172113931) - Our team runs office hours weekly, where you can come learn more about Alexa development, as well as ask specific questions to our moderators.
+*  [Alexa on Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
+*  [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
+*  [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features you want to see available for building Alexa skills, this is the place to mention and vote on them.
+*  [Alexa Office Hours](https://attendee.gotowebinar.com/rt/8389200425172113931) - Our team runs office hours weekly, where you can come learn more about Alexa development, as well as ask specific questions to our moderators.
 
 
 
