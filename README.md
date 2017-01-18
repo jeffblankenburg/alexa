@@ -1,13 +1,25 @@
 <img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/images/alexalogo.png" height="100">
 
+#Getting Started With Alexa Skills
+There are a few things you need to do before you get started.
+1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
+2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 | [Getting Started](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/getting-started-guide) | [Alexa Skills Kit](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/content/alexa-skills-developer-training) | [Lambda Functions](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function) | [Voice Design](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-design-best-practices) | [Testing](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/testing-an-alexa-skill) | [Blog](https://developer.amazon.com/public/community/blog/tag/Alexa) | [Forums](https://forums.developer.amazon.com/spaces/23/Alexa+Skills+Kit.html) |
 |---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
-
-<!--![](https://github.com/jeffblankenburg/alexa/blob/master/images/alexalogo.png)
-
-| [Begin](https://github.com/jeffblankenburg/alexa) | [Tutorials](https://github.com/jeffblankenburg/alexa/tree/master/tutorials) | [Code Samples](https://github.com/jeffblankenburg/alexa/tree/master/code_samples) | [Voice User Interface](https://github.com/jeffblankenburg/alexa/tree/master/voice_user_interface) | [Testing](https://github.com/jeffblankenburg/alexa/tree/master/testing) | [Certification](https://github.com/jeffblankenburg/alexa/tree/master/certification) | [Analytics](https://github.com/jeffblankenburg/alexa/tree/master/analytics) |
-|---------|-------------|----------------|------------------------|-----------|-----------------|-------------|
--->
 
 This GitHub repository is meant to provide an extensive set of links, code, and resources for both new and experienced Alexa developers.
 
@@ -49,3 +61,5 @@ See also the list of [contributors](https://github.com/jeffblankenburg/alexa/con
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+-->
