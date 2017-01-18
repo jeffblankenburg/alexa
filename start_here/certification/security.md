@@ -4,17 +4,17 @@
 
 To protect customer data, the cloud-based service for your skill must meet Amazon’s security requirements. The specific requirements depend on whether you are hosting using [AWS Lambda](http://aws.amazon.com/lambda/) or your own endpoint. AWS Lambda is a service offering by [Amazon Web Services](http://aws.amazon.com/).
 
-1. **Skills Hosted As Lambda Functions**
+1. ###Skills Hosted As Lambda Functions
    Your Lambda function must ensure that requests are intended for your service, as discussed in the “Verifying that the Request is Intended for Your Service” section of [Handling Requests Sent by Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa).
 
-2. **Skills Hosted as Web Services on Your Own Endpoint**
+2. ###Skills Hosted as Web Services on Your Own Endpoint
     * The web service must present a valid, trusted certificate when the connection is established and must possess the corresponding private key. Amazon only trusts certificates that have been signed by an [Amazon-approved certificate authority](https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/included/).
     * Self-signed certificates cannot be used for published skills.
     * The service must verify that incoming requests were sent by the Alexa service. You can do this by validating the request signature as discussed in the “Verifying that the Request was Sent by Alexa” section of [Hosting a Custom Skill as a Web Service](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-web-service).
     Note: the Java library provided with the Alexa Skills Kit provides a disableRequestSignature flag in the SpeechletServlet class that you can use for testing. If you used this while testing, be sure to set it back to false when you are ready to submit for certification.
     * The service must ensure that incoming requests are intended for your service, as discussed in the “Verifying that the Request is Intended for Your Service” section of [Handling Requests Sent by Alexa](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/handling-requests-sent-by-alexa).
 
-3. **Skills with Account Linking**
+3. ###Skills with Account Linking
    If your skill needs to connect the identity of the end user with a user in another system (account linking), please verify that your skill follows all the instructions defined in [Linking an Alexa User with a User in Your System](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/linking-an-alexa-user-with-a-user-in-your-system). When submitting your skill, be sure to provide a valid set of account credentials with your testing instructions so our certification team can verify the account linking and functionality of your skill. Your skill must also pass the following account linking criteria:
 
    * The skill must use Amazon’s account linking feature by redirecting the user to a login page or landing page when enabling the skill with the Alexa app.
