@@ -1,9 +1,35 @@
 <img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/images/alexalogo.png" height="100">
 
+#What Is This Repository?
+This is a place for me to keep all of the resources I find important to Alexa development in one place.  There's code snippets, links to tools and information across the web, and even information for the rest of my Alexa evangelism team.  All of this information is my own, and does not represent Amazon in any way.
+
+
 #Getting Started With Alexa Skills
-There are a few things you need to do before you get started.
-    1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
-    2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
+There are a few things you need to do before you get started:
+
+1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
+2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
+3.  [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
+4.  Build one of the sample skills.
+    1. [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is the simplest of examples, but a great one to start with.  Add some new facts to the sample, and you're done!
+    2. [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify to let you know about events on that calendar.
+    3. [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - Populate this sample with information about your favorite city so that others can learn about it!
+    4. [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
+
+#Other Stuff To Check Out Here
+1.  Code Snippets
+2.  Building Voice User Interfaces
+3.  Testing Your Alexa Skills
+4.  Getting Your Skill Through certification
+5.  Measuring Your Skills With Analytics
+6.  Alexa Evangelists
+
+#Other Stuff For Alexa
+1.  [Alexa on Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
+2.  [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
+3.  [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features you want to see available for building Alexa skills, this is the place to mention and vote on them.
+4.  [Alexa Office Hours](https://attendee.gotowebinar.com/rt/8389200425172113931) - Our team runs office hours weekly, where you can come learn more about Alexa development, as well as ask specific questions to our moderators.
+
 
 
 
@@ -36,9 +62,9 @@ Skills are made up of two parts, just like most software you use today.  There's
 There are plenty of places to connect with the Alexa team to get your questions answered.  Here's a few places you can start:
 
 * [Office Hours](https://attendee.gotowebinar.com/rt/8389200425172113931) - Our team runs office hours weekly, where you can come learn more about Alexa development, as well as ask specific questions to our moderators.
-* [Forums](https://forums.developer.amazon.com/spaces/23/index.html) - there is an active community of developers working together to solve development problems in our forums.
+* 
 * [Feature Requests](https://forums.developer.amazon.com/spaces/185/index.html) - if there are features missing from Alexa, or any of the supporting technology, this is the place to ask for it.  Vote up the features you need, and see what others are asking for.
-* [Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
+* [Twitter](http://twitter.com/alexadevs)
 * [Alexa Evangelists](https://github.com/jeffblankenburg/alexa/tree/master/evangelists) - several people on our team are dedicated to helping to grow and educate software developers about Alexa development.
 
 
