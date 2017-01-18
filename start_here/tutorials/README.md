@@ -6,4 +6,4 @@ I have created a bunch of simple tutorials for you to easily understand the basi
 * Managing State
 * Using DynamoDB to Manage Persistence
 * Making an HTTP/HTTPS Request
-* Building a Biography Skill
+* [Account Linking with Login With Amazon](https://developer.amazon.com/blogs/post/Tx3CX1ETRZZ2NPC/Alexa-Account-Linking-5-Steps-to-Seamlessly-Link-Your-Alexa-Skill-with-Login-wit)

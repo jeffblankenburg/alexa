@@ -3,8 +3,8 @@
 Understanding the common pitfalls, finding resources to create your icons, and finding your way to certification glory.
 
 # Official Certification Guidelines and Requirements
-* [Policy Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-policy-testing)
-* [Security Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-security-testing)
-* [Functional Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-functional-testing)
-* [Voice User Interface Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-voice-interface-and-user-experience-testing)
+* [Policy Guidelines](https://github.com/jeffblankenburg/alexa/blob/master/start_here/certification/policy.md)
+* [Security Guidelines](https://github.com/jeffblankenburg/alexa/blob/master/start_here/certification/security.md)
+* [Functional Guidelines](https://github.com/jeffblankenburg/alexa/blob/master/start_here/certification/functional.md)
+* [Voice User Interface Guidelines](https://github.com/jeffblankenburg/alexa/blob/master/start_here/certification/voice_user_interface.md)
 
