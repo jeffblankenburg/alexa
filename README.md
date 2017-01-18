@@ -2,8 +2,8 @@
 
 #Getting Started With Alexa Skills
 There are a few things you need to do before you get started.
-1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
-2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
+    1.  Set up an account on the [Amazon Developer Portal](http://developer.amazon.com).
+    2.  Set up an account for [Amazon Web Services](http://aws.amazon.com).
 
 
 
