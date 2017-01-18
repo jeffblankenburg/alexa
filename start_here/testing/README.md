@@ -7,5 +7,5 @@ How to use the testing tools that are provided, and other effective testing stra
 * Combining the two
 * Using Echosim.io
 * Using a device
-* [Beta testing skills with friends and colleagues]().
+* [Beta testing skills with friends and colleagues](https://github.com/jeffblankenburg/alexa/blob/master/start_here/testing/beta_testing.md).
 * Promoting your skill using http://amazon.com/skills
