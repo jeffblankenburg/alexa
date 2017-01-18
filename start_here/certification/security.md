@@ -37,14 +37,15 @@ To protect customer data, the cloud-based service for your skill must meet Amazo
 
    ---
    ####Test
-   ---
    Enable the skill and complete the account linking process. Ensure that the account linking flow includes setting a PIN to access unlock functionality and the PIN meets the security requirements.
-
-   ####Expected Results
    ---
+
+   ---
+   ####Expected Results
    * The skill requires the user to set a PIN as part of the account linking process.
    * The PIN must be at least four digits long.
    * The flow reminds the user to reset the PIN every 60 days.
+   
 
    ---
    ####Test
