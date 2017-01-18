@@ -1,5 +1,3 @@
-<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/images/alexalogo.png" height="100">
-
 #Code Snippets
 This is a collection of code snippets that can be used to accomplish specific tasks in Alexa skills.
 

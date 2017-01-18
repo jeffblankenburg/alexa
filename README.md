@@ -18,11 +18,12 @@ There are a few things you need to do before you get started:
 
 #Other Stuff To Check Out Here
 *  [Code Snippets](https://github.com/jeffblankenburg/alexa/tree/master/start_here/code_snippets)
-*  Building Voice User Interfaces
-*  Testing Your Alexa Skills
-*  Getting Your Skill Through certification
-*  Measuring Your Skills With Analytics
-*  Alexa Evangelists
+*  [Tutorials](https://github.com/jeffblankenburg/alexa/tree/master/start_here/tutorials)
+*  [Building Voice User Interfaces](https://github.com/jeffblankenburg/alexa/tree/master/start_here/voice_user_interface)
+*  [Testing Your Alexa Skills](https://github.com/jeffblankenburg/alexa/tree/master/start_here/testing)
+*  [Getting Your Skill Through Certification](https://github.com/jeffblankenburg/alexa/tree/master/start_here/certification)
+*  [Measuring Your Skills With Analytics](https://github.com/jeffblankenburg/alexa/tree/master/start_here/analytics)
+*  [Alexa Evangelists](https://github.com/jeffblankenburg/alexa/tree/master/start_here/alexa_evangelists)
 
 #Other Stuff For Alexa
 *  [Alexa on Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
