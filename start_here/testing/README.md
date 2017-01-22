@@ -2,6 +2,7 @@
 
 How to use the testing tools that are provided, and other effective testing strategies for your Alexa skills.
 
+* [Unit Testing Your Skills](https://github.com/jeffblankenburg/alexa/blob/master/start_here/testing/unit_testing.md)
 * Testing with the Service Simulator
 * Testing your Lambda skill
 * Combining the two
