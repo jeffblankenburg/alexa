@@ -9,7 +9,7 @@ There are a few things you need to do before you get started:
 
 * [Set up an account on the Amazon Developer Portal](http://developer.amazon.com).
 * [Set up an account for Amazon Web Services](http://aws.amazon.com).
-* [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test, but having the real thing makes a world of difference in your testing.
+* [Get a device!](http://amzn.to/2iQkYlF)  There are other ways to test (like [Echosim](http://echosim.io)), but having the real thing makes a world of difference in your testing.
 * Build one of the sample skills.
     * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is a simple example, but a great one to start with.  Add facts to the sample, and you're done!
     * [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify.
