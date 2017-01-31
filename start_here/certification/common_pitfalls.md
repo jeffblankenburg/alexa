@@ -10,6 +10,7 @@ As part of your submission, you are required to provide three example phrases.  
 Certification requirements for the first example phrase are different from the second and third. As you read this, it is important to understand whether the following requirements apply to only the first or all example phrases.
 
 There are generally four scenarios that can lead to certification failure with example phrases.
+
 1.  **Example phrases are missing specific criteria**
 
     For the first example phrase, you need to provide the user with an example to start your skill.  Something like "Alexa, ask Seattle Guide about the Space Needle," is an example of a good first example phrase.
