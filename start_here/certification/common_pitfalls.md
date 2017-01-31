@@ -10,7 +10,7 @@ As part of your submission, you are required to provide three example phrases.  
 Certification requirements for the first example phrase are different from the second and third. As you read this, it is important to understand whether the following requirements apply to only the first or all example phrases.
 
 There are generally four scenarios that can lead to certification failure with example phrases.
-1.  ###Example phrases are missing specific criteria
+1.  **Example phrases are missing specific criteria**
 
     For the first example phrase, you need to provide the user with an example to start your skill.  Something like "Alexa, ask Seattle Guide about the Space Needle," is an example of a good first example phrase.
 
@@ -34,7 +34,7 @@ There are generally four scenarios that can lead to certification failure with e
     *  "Alexa, ask GetNewFactIntent give me a fact" - GetNewFactIntent is not the invocation name for the skill, it is likely the name of the intent you created.
     *  "Alexa, Social Headline" - You must use a launch word before your invocation name.
 
-2.  ###Example phrases do not contain one of your skill’s Sample Utterances
+2.  **Example phrases do not contain one of your skill’s Sample Utterances**
 
     Each example phrase should be explicitly modeled on the sample utterances. For instance, if you have this example phrase:
         "Alexa, ask Tide Pooler when is high tide in Seattle."
@@ -44,7 +44,7 @@ There are generally four scenarios that can lead to certification failure with e
 
     Any slots in the example phrase (such as Seattle in this example) must be filled with an example of a valid slot value. In this example, City is a custom slot type, and “Seattle” is a value explicitly defined for the City type.  It is important to review your sample utterances and pick example phrases from these sample utterances only.
     
-3.  Example phrases do not provide a response in context
+3.  **Example phrases do not provide a response in context**
     Example phrases are shown on the skill’s detail card in the Alexa app to help users understand how to interact with your skill. These are the phrases users are most likely to try the first time they interact with the skill. Therefore, you want to be certain that they work well and provide a good user experience.
 
     Consider the following example,
