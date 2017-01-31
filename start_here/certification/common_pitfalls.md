@@ -69,6 +69,7 @@ An exhaustive list of [Invocation Name Requirements](https://developer.amazon.co
 
 ##IP Infringement (Frequency of Failure: High)
 A skill fails for IP infringement when it:
+
 1.  Implies sponsorship or endorsement by Amazon or otherwise mischaracterizes the relationship with Amazon.
 2.  Infringes the intellectual property rights (including copyright, trademark and publicity rights) of a third party.
 3.  Purports to be affiliated with a company or brand but is not the official skill of that company or brand.
@@ -76,6 +77,7 @@ A skill fails for IP infringement when it:
 IP infringement may occur in metadata including but not limited to, skill name, invocation names, and description or even in responses from the skill.
 
 There are two important things you must take care of for your skill to not fail:
+
 1.  You must provide documentation demonstrating that you have the right to use the trademark via the [Contact Us form in the Amazon Developer Console](https://developer.amazon.com/public/support/contact/contact-us).
 2. In case you want to create a skill that is based on a movie/celebrity or any other brand, we recommend:
     1.  Add your developer name or one of the following words to the skill name or invocation name (whichever contains the third party trademark): "unofficial", "fan", "unauthorized"; and/or
@@ -83,7 +85,9 @@ There are two important things you must take care of for your skill to not fail:
 
 ##Incorrect Session Management (Frequency of Failure: Medium)
 Every response sent from your skill to the Alexa service includes a flag indicating whether the conversation with the user (the session) should end or continue. If the text-to-speech provided by your skill and the session flag do not synchronize, it will be failed for incorrect session management.
+
 There are 3 scenarios in which a skill will fail:
+
 1.  Response from the skill asks the user a question (or prompts the user for a reply) must leave the session open for a user response.
 2.  If your skill does not request a response from the user, the session should close.  Keeping the session open without prompting the user to interact will result in failure.
 3.  If user input is required after launching the skill with no intent, a welcome prompt must be provided describing what users can ask for, and the session must remain open for a user response. If the session closes after launching the skill, a core functionality must be completed without prompting users to speak.  An example of a welcome message can be found in our [City Guide template](https://github.com/alexa/skill-sample-nodejs-city-guide), and an example of offering core functionality (with no prompt) can be found in our [Fact Skill template](https://github.com/alexa/skill-sample-nodejs-fact).
