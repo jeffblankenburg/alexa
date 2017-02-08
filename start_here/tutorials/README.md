@@ -1,6 +1,6 @@
 #Tutorials
 
-![](https://github.com/jeffblankenburg/alexa/blob/master/start_here/tutorials/images/fact-skill.png)
+<a href=""><img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/tutorials/images/fact-skill.png" width="300"/></a>
 
 I have created a bunch of simple tutorials for you to easily understand the basics of an Alexa skill.
 
