@@ -13,7 +13,7 @@
 *  Simple graphical editing tool (like Windows Paint or Mac Preview)
 *  Twenty (minimum) trivia questions and answers on a topic you love.
 
-<table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/tutorials/images/1.png" height="100" /></td><td></td>##Setting up Your Alexa Skill in the Developer Portal</td></table>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td><img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/tutorials/images/1.png" height="100" /></td><td></td>Setting up Your Alexa Skill in the Developer Portal</td></table>
 
 Skills are managed through the Amazon Developer Portal. You’ll link the Lambda function you created to a skill defined in the [Developer Portal](https://developer.amazon.com/).
 
