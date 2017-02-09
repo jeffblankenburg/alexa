@@ -23,7 +23,7 @@ There are generally four scenarios that can lead to certification failure with e
     **[Wake Word], [Launch Word] [Invocation Name] [Connector*] [Utterance]**
 
     * **Wake Word** - this will generally be the word Alexa, but some users have changed their wake word to Amazon, Echo, or Computer.  Use "Alexa" in these examples.
-    * **Launch Word** - this includes words like "open," "ask," "start," "launch," "begin," "talk to," "resume," "run," or "load."
+    * **Launch Word** - this includes words like "open," "ask," "start," "launch," "begin," "talk to," "resume," "run," "tell", or "load."
     * **Invocation Name** - this is the name you assigned to your skill.
     * **Connector** - these are simple words to connect a user's launch word to their utterance, like "and," "to," or "for."  This is optional, but makes a user's statement sound more like natural language.
     * **Utterance** - this should be one of the sample utterances you provided in your Interaction Model for your skill.  It *must* match one of your sample utterances.
@@ -62,7 +62,7 @@ Typically a skill may fail due to one or more of following concerns with its inv
 
 1.  Invocation name is a single word, without it being unique to developer’s brand/intellectual property.  You must use at least two words in your invocation name unless you own the rights to a specific word, like Uber, Dominos, or Nest.
 2.  Invocation name consists of 2 words, one of which is a definite article.  In English, "the" is a definite article.  You can't use the word "the" in a 2 word invocation name.
-3.  Invocation name consists of wake words (Alexa, Amazon, Echo, or Computer) or connectors (to, from, by, if, and, whether) or launch words (launch, ask, tell, load or begin).
+3.  Invocation name consists of wake words (Alexa, Amazon, Echo, or Computer) or connectors (to, from, by, if, and, whether) or launch words (launch, ask, tell, load, enable, or begin).
 4.  Invocation name infringes upon intellectual property rights of an entity or a person.  For example, you can't use the name "AWS Helper" because it infringes on AWS's intellectual property.
 
 An exhaustive list of [Invocation Name Requirements](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill#invocation-name-requirements) are documented on the developer portal. 
