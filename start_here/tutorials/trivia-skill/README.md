@@ -13,6 +13,8 @@
 *  Simple graphical editing tool (like Windows Paint or Mac Preview)
 *  Twenty (minimum) trivia questions and answers on a topic you love.
 
+<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/tutorials/images/1.png" height="100" />
+
 # Let's Get Started
 
 ## Step 1. Setting up Your Alexa Skill in the Developer Portal
