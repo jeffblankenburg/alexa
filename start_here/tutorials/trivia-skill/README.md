@@ -8,8 +8,8 @@
 *  Skill Certification
 
 ##What You Will Need
-*  Amazon Developer Portal Account
-*  Amazon Web Services Account
+*  [Amazon Developer Portal Account](http://developer.amazon.com)
+*  [Amazon Web Services Account](http://aws.amazon.com/)
 *  Simple graphical editing tool (like Windows Paint or Mac Preview)
 *  Twenty (minimum) trivia questions and answers on a topic you love.
 
