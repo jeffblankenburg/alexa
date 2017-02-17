@@ -14,4 +14,4 @@ Twitter: [http://twitter.com/deanbryen](http://twitter.com/deanbryen)
 
 LinkedIn: [http://uk.linkedin.com/in/deanbryen](http://uk.linkedin.com/in/deanbryen)
 
-<!--GitHub: [http://github.com/jeffblankenburg](http://github.com/jeffblankenburg)-->
+GitHub: [http://github.com/deanobalino](http://github.com/deanobalino)
