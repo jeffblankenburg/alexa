@@ -1,6 +1,6 @@
 #Michael Palermo
 
-<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/alexa_evangelists/images/memodoring.jpg" width="200">
+<img src="https://github.com/jeffblankenburg/alexa/blob/master/start_here/alexa_evangelists/images/michaelpalermo.jpg" width="200">
 
 Email: [johniv@amazon.com](mailto:johniv@amazon.com)
 
