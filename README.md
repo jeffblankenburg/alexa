@@ -14,7 +14,7 @@ There are a few things you need to do before you get started:
     * [Fact Skill](https://github.com/alexa/skill-sample-nodejs-fact) - This is a simple example, but a great one to start with.  Add facts to the sample, and you're done!
     * [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) - This sample imports the calendar data from an .ICS file you specify.
     * [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - Populate this sample with information about your favorite city so that others can learn about it!
-    * [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample.
+    * [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - Want to create a skill to figure out if you're a Monica or a Chandler?  Use this sample. 
 
 #Other Stuff To Check Out Here
 *  [Code Snippets](https://github.com/jeffblankenburg/alexa/tree/master/start_here/code_snippets)
@@ -23,7 +23,6 @@ There are a few things you need to do before you get started:
 *  [Testing Your Alexa Skills](https://github.com/jeffblankenburg/alexa/tree/master/start_here/testing)
 *  [Getting Your Skill Through Certification](https://github.com/jeffblankenburg/alexa/tree/master/start_here/certification)
 *  [Measuring Your Skills With Analytics](https://github.com/jeffblankenburg/alexa/tree/master/start_here/analytics)
-*  [Alexa Evangelists](https://github.com/jeffblankenburg/alexa/tree/master/start_here/alexa_evangelists)
 
 #Other Stuff For Alexa
 *  [Alexa on Twitter](http://twitter.com/alexadevs) - a place to find news, announcements, and information about developing for Alexa.
